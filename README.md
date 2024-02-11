@@ -5,6 +5,8 @@ Bem-vindo ao repositório SpotifyCloneUI, um projeto que recria o visual da pág
 
 Este projeto é um clone do frontend do site do Spotify, projetado para oferecer uma experiência de usuário familiar, elegante e responsiva. Utilizando as melhores práticas de design e implementação, replicamos a aparência moderna e dinâmica do Spotify.
 
+![Screenshot do SpotifyCloneUI](img/screenshot.png)
+
 ## Tecnologias Utilizadas
 
 - **HTML5**: Estruturação semântica para uma base sólida.
